@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "687552046618",
+    "project_id": "hari-en-1",
+    "storage_bucket": "hari-en-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687552046618:android:da75d5ca4e8c238d50d3a3",
+        "android_client_info": {
+          "package_name": "hari.app.en"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd30Bmn2iSx44CTeyz8V-OiKBS2OEIVX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687552046618:android:96a5db165fd237d750d3a3",
+        "android_client_info": {
+          "package_name": "hari.app.en.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd30Bmn2iSx44CTeyz8V-OiKBS2OEIVX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
